@@ -1,18 +1,14 @@
-# 🎨 Leila – Concept & Lore Entry
+# 🎯 Hogan – Concept & Lore Entry
 
-Welcome to the dedicated folder for **Leila**, one of the core champions of *Valhalla Rising – The Parchment*. Here you will find hand-drawn style visual assets and multilingual background entries that portray her symbolic presence across different cultures and atmospheres.
+This folder contains the lore and visual reference for **Hogan**, a legendary Sniper in *Valhalla Rising – The Parchment*. Silent, sharp, and steady — Hogan protects more than he strikes.
 
 ## 📂 Contents
 
-- `leila-en.md` – Champion entry in **English** (London-inspired modal tone)
-- `leila-fr.md` – Champion entry in **French** (Parisian poetic tone)
-- `leila-pt.md` – Champion entry in **Portuguese** (São Paulo symbolic realism)
-- `leila-sketch.png` – Artistic pencil-style image of Leila
+- `hogan-en.md` – Champion entry in **English** (London)
+- `hogan-fr.md` – Champion entry in **French** (Paris)
+- `hogan-pt.md` – Champion entry in **Portuguese** (São Paulo)
+- `hogan-sketch.png` – Pencil sketch illustration of the character
 
-## 📜 About Leila
+> “When the time is right, one shot is enough.”
 
-Leila is a Warlock whose essence transcends conflict. Her story, aura, and teachings echo through generations. As wife to **Hogan** and mother to **Tuane** and **Lara**, her presence balances strength, knowledge, and compassion.
-
-> “This repository honors not only a character, but a legacy.” – Marcelo
-
-🛡️ *Valhalla Rising – The Parchment*
+🛡️ Marcelo
