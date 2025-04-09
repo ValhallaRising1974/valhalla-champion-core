@@ -36,3 +36,11 @@ Each culture has 3–4 unique subcategories:
 
 ### Credits
 System designed by Marcelo, 2025. All rights reserved.
+
+### 📊 Rune Build Simulations
+
+| Simulation | Selected Runes                                                                  | Effects                                                                                                                    | Total Efficiency |
+|------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------|
+| Build 1    | Spear of Tezcatlipoca, Garmr's Thorn, Sandals of Hermes                         | 100% magic penetration on first post-combat ability; +10% physical damage when taking damage; +10% movement speed out of combat | 7             |
+| Build 2    | Blessing of Tyr, Obsidian Mirror, Seed of Gaia                                  | Shield of 20% HP when below 35%; -20% magic damage from next 2 abilities; Regenerates 2% HP/sec out of combat              | 6                |
+| Build 3    | Mjolnir's Hammer, Codex of Chilam Balam, Aegis of Athena                        | +15% damage to high-armor enemies; +15% mana regen out of combat; 6% HP shield on ability hit                             | 7                |

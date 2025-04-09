@@ -36,3 +36,11 @@ Chaque culture a 3 à 4 sous-catégories :
 
 ### Auteur
 Système conçu par Marcelo, 2025. Tous droits réservés.
+
+### 📊 Simulations de Builds de Runes
+
+| Simulation | Runes Sélectionnées                                                             | Effets                                                                                                                     | Efficacité Totale |
+|------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Build 1    | Lance de Tezcatlipoca, Épine de Garmr, Sandales d’Hermès                        | 100% de pénétration magique sur la première capacité post-combat; +10% de dégâts physiques sous attaque; +10% de vitesse hors combat | 7           |
+| Build 2    | Bénédiction de Tyr, Miroir d’Obsidienne, Graine de Gaïa                         | Bouclier de 20% des PV sous 35%; -20% de dégâts magiques sur 2 capacités; Régénère 2% des PV/s hors combat               | 6                |
+| Build 3    | Marteau de Mjolnir, Codex de Chilam Balam, Égide d’Athéna                       | +15% de dégâts contre ennemis blindés; +15% de régénération de mana hors combat; Bouclier de 6% des PV                     | 7                |
