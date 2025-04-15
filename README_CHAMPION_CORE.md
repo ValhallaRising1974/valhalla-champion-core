@@ -65,7 +65,7 @@ README.md
 ## 🧾 Credits
 
 **Created by:** Marcelo dos Santos Prado  
-**Design and Support:** Lyra (ChatGPT)  
+
 **Languages:** Portuguese, English, French  
 **Status:** Under Development | En développement | Em desenvolvimento
 
