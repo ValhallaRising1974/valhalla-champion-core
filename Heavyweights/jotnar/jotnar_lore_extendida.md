@@ -32,7 +32,7 @@ Frey e Freya intervieram. Ao lado de Héstia, Ártemis e Higia, evitaram o desas
 
 Mas o mundo precisava deles. Jotnar e Afrodite, então, aceitaram o convite para lutar no Valhalla Rising – The Parchment. Não como soldados de deuses. Mas como **precursores da paz e da justiça**.
 
-Jotnar assumiu seu posto como Juggernaut de suporte. Ao seu lado, Afrodite, como Warlock de suporte ou dano, espalha a essência do amor onde ele mais faz falta.
+Jotnar assumiu seu posto como Juggernaut de suporte. Ao seu lado, Afrodite, como Warlock da rota midleway, espalha a essência do amor onde ele mais faz falta.
 
 E onde estiverem juntos, até o gelo mais profundo pode derreter.
 
