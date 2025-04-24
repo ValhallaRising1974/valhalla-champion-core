@@ -1,7 +1,7 @@
 # Galdhøpiggen – Executor
 
 **Função:** Rápido & Letal  
-**Especialidade:** Assassino – Oblivion (Selva)  
+**Especialidade:** Assassino – midleway ( mid )
 **Classe:** Slayer  
 **Origem:** Reino Desconhecido  
 **Status Atual:** Em busca de redenção
