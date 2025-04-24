@@ -4,11 +4,9 @@
 **Alinhamento**: Núcleo da Precisão  
 **Título**: A Sentinela Imperturbável
 
-Hogan nunca foi de falar muito. Mas suas ações são definitivas.
+Hogan nunca foi de falar muito. Mas suas ações são definitivas. É calmo. E quando atua, é certeiro.
 
-Se estivesse em São Paulo, seria o tipo de homem que observa da janela, na penumbra, e que sabe o que está por vir antes mesmo do mundo perceber. É calmo. E quando atua, é certeiro.
-
-É casado com **Leila**, com quem compartilha uma história de silêncios eloquentes. Pai de **Tuane** e **Lara**, Hogan passa a seus filhos a arte de ver antes de agir.
+É casado com **Leila**, com quem compartilha uma história de silêncios eloquentes. Pai de Isadora, Jackman ( Warlock a ser revelado, casado com Serena, Warlock do midleway ) e **Lara**, Hogan passa a seus filhos a arte de ver antes de agir.
 
 > *"Não há pressa quando se enxerga longe."*
 
