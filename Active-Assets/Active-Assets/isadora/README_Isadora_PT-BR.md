@@ -1,6 +1,6 @@
 # 🎯 Isadora – *Valhalla Rising: The Parchment* (PT-BR)
 
-Isadora é uma Sniper veterana em *Valhalla Rising – The Parchment*. Filha da Warlock Leila e do Sniper Hogan, ela é irmã de Lara e de um Warlock de dano ainda não revelado.
+Isadora é uma Sniper veterana em *Valhalla Rising – The Parchment*. Filha da Warlock Leila e do Sniper Hogan, ela é irmã de Lara e do Warlock de dano chamado Jackman, que é casado com Serena, outra Warlock de dano.
 
 Diferente do estilo tático de seu pai, Isadora é mais agressiva e direta. Veste-se como uma combatente de elite: calça jeans rasgada, botas de combate e cinto com cartuchos. Carrega duas carabinas Pulmam adaptadas para disparos pesados.
 
