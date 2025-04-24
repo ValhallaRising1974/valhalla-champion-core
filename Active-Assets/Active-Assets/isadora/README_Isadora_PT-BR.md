@@ -6,7 +6,7 @@ Diferente do estilo tático de seu pai, Isadora é mais agressiva e direta. Vest
 
 Além de Sniper, Isadora também é professora, assim como sua mãe. Une conhecimento e força, controlando o campo de batalha com inteligência e ferocidade.
 
-Ela atua exclusivamente na rota **Firestarter**. Quando está no mesmo time que sua irmã Lara, qualquer uma das duas perde eficiência se for deslocada para outra rota. Se estiverem em lados opostos, interagem com falas únicas.
+Ela atua exclusivamente na rota **Firestarter**. Quando está no mesmo time que sua irmã Lara, qualquer uma das duas perde eficiência se for deslocada para outra rota. Se estiverem em lados opostos, interagem com falas únicas e ganham atributos de 17%, mesmo em time opostos.
 
 **Habilidades:**
 - **Q – Rotten Alone**: Lança um projétil que explode em uma nuvem ácida, causando dano físico contínuo, quebra de armadura e roubo de vida.
