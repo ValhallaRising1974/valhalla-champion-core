@@ -6,7 +6,7 @@ Apesar da aparência, Bjorn é humano. Ele vive no Planeta Astral, onde trabalha
 
 Talos procurou Frey e Freya, os regentes do torneio, para solicitar acesso às informações. Eles aceitaram, com a condição de que tudo fosse conquistado com justiça e esforço. Talos então enviou Bjorn como representante.
 
-Bjorn é apaixonado por **Tuane**, uma Bruiser da rota Middleway, filha de Norabel e Harmenszoon. Tuane também nutre sentimentos por ele, mas se dedica ao estudo e ao aperfeiçoamento. Bjorn, determinado, segue sua missão com foco absoluto.
+Bjorn é apaixonado por **Tuane**, uma Bruiser da rota Highland. Tuane também nutre sentimentos por ele, mas se dedica ao estudo e ao aperfeiçoamento. Bjorn, determinado, segue sua missão com foco absoluto.
 
 **Habilidades:**
 - **Q – Fireflye**: Dispara tiros curtos com explosão de luz ao contato, causando lentidão e cegueira.
