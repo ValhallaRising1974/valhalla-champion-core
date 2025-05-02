@@ -1,6 +1,6 @@
 # ⚔️ Tahtib – A Ninja Egípcia da Tempestade | *Valhalla Rising: The Parchment* (PT-BR)
 
-Tahtib é uma Bruiser singular, que une a sabedoria ancestral do Egito Antigo às artes furtivas do Ninjutsu japonês. Após viver uma infância de sofrimento no planeta El-Adwah — marcada por preconceito, orfandade e exclusão — ela encontrou abrigo em uma família acolhedora da província de Chongqing. Lá, revelou-se uma exímia cozinheira e harpista, ganhando o coração da comunidade.
+Tahtib é uma Bruiser singular, que une a sabedoria ancestral semelhante ao do Egito Antigo ( Tahtib não é do Planeta Terra, mas a energia do conhecimento vaga pelo universo e encontra as aberturas das frotneiras da existência Universal ) às artes furtivas do Ninjutsu japonês. Após viver uma infância de sofrimento no planeta El-Adwah — marcada por preconceito, orfandade e exclusão — ela encontrou abrigo em uma família acolhedora da província de Chongqing. Lá, revelou-se uma exímia cozinheira e harpista, ganhando o coração da comunidade.
 
 Quando essa nova família foi cruelmente assassinada por um Slayer, Tahtib foi salva pelos irmãos Frey e Freya, que lhe ofereceram a chance de lutar por justiça. Com o treinamento de Balder, deus guerreiro de Asgard, ela se tornou uma combatente poderosa, imprevisível e movida por propósitos maiores: proteger os inocentes e restaurar o equilíbrio em seu planeta.
 
