@@ -3,14 +3,14 @@
 **Função:** Forte & Brutal  
 **Rota:** Selva – Oblivion  
 **Classe:** Bruiser  
-**Origem:** Nutrys  
+**Origem:** Aquarius  
 **Status:** Aguardando restauração do planeta
 
 ---
 
 ## História
 
-Megalodon é um guerreiro mutante de Nutrys, um planeta devastado pela radiação de três estrelas em colapso. Ele e seu irmão, TigerShark, eram defensores daquele mundo, até que os raios não filtrados os alteraram profundamente.
+Megalodon é um guerreiro mutante de Aquarius, um planeta devastado pela radiação de três estrelas em colapso. Ele e seu irmão, TigerShark, eram defensores daquele mundo, até que os raios não filtrados os alteraram profundamente.
 
 Frey e Freya ofereceram a ambos uma chance de redenção: participar do torneio mítico *Valhalla Rising* em troca da restauração de seu planeta. Megalodon aceitou de imediato. TigerShark recusou, por orgulho.
 
