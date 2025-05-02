@@ -8,7 +8,7 @@ Leila não é da Terra. É natural do Plano Astral, assim como todos os humanos 
 
 Talvez ela fosse confundida com uma professora comum. Mas logo se perceberia que suas palavras deveriam ser ouvidas com reverência.
 
-Esposa de **Hogan**, um Sniper introspectivo, e mãe de Isador, Jackman e **Lara**, ela moldou uma família à imagem da sabedoria e da firmeza.
+Esposa de **Hogan**, um Sniper introspectivo, e mãe de Isadora, Jackman e **Lara**, ela moldou uma família à imagem da sabedoria e da firmeza.
 
 Leila não usaria seus dons para impressionar. Poderia, sim, usá-los para restaurar tudo o que fosse perdido.
 
