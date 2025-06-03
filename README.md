@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ValhallaRising1974/valhalla-champion-core/main/cover/valhalla_champion_cover.png" alt="Valhalla Rising – The Parchment - Champion Core" width="100%">
+  <img src="https://raw.githubusercontent.com/ValhallaRising1974/valhalla-champion-core/main/cover/valhalla_champion_cover.png" alt="Valhalla Champion Core Cover" width="100%">
 </p>
+
 
 
 ---
